@@ -39,6 +39,24 @@ Soy un Ingeniero en Sistemas Computacionales con especialización en Robótica, 
 
 - **Fundador de PIXELOVE.INC:** Empresa dedicada al desarrollo de software para empresas y particulares, con un enfoque en aplicaciones de software y hardware interconectados a nivel Internet (WAN).
 - **Propietario de NexLink Networks:** Empresa especializada en la venta de servicios de Internet de alta velocidad a domicilio mediante dispositivos inalámbricos de largo alcance.
+
+## 🔭 Innovación y Futuro
+
+Mi pasión por la tecnología me impulsa a estar siempre al tanto de las últimas tendencias y avances en el campo. Me enfoco en el desarrollo de aplicaciones robustas y escalables, utilizando tecnologías avanzadas para crear soluciones inteligentes y adaptables.
+
+Siempre en busca de nuevos desafíos y oportunidades para aplicar mis habilidades y conocimientos en proyectos innovadores y de impacto.
+
+## 📫 Contacto
+
+- Correo electrónico: [jimmy909045@gmail.com](mailto:jimmy909045@gmail.com)
+- LinkedIn: [Jimmy Lopez](https://www.linkedin.com/in/jimmy-lopez/)
+- Twitter: [@jimmy909045](https://x.com/jimmy909045)
+
+
+## 🚀 Emprendimientos
+
+- **Fundador de PIXELOVE.INC:** Empresa dedicada al desarrollo de software para empresas y particulares, con un enfoque en aplicaciones de software y hardware interconectados a nivel Internet (WAN).
+- **Propietario de NexLink Networks:** Empresa especializada en la venta de servicios de Internet de alta velocidad a domicilio mediante dispositivos inalámbricos de largo alcance.
 - **Fundador de CODEXFIGHT:** Empresa dedicada al desarrollo de software para empresas y particulares.
 
 ## 🔭 Innovación y Futuro

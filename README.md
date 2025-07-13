@@ -45,6 +45,7 @@ Soy un Ingeniero en Sistemas Computacionales con especialización en Robótica, 
 
 - **Fundador de PIXELOVE.INC:** Empresa dedicada al desarrollo de software para empresas y particulares, con un enfoque en aplicaciones de software y hardware interconectados a nivel Internet (WAN).
 - **Propietario de NexLink Networks:** Empresa especializada en la venta de servicios de Internet de alta velocidad a domicilio mediante dispositivos inalámbricos de largo alcance.
+- **Fundador de CODEXFIGHT:** Empresa dedicada al desarrollo de software para empresas y particulares.
 
 ## 🔭 Innovación y Futuro
 

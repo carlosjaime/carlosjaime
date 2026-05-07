@@ -354,7 +354,7 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, mante
 
 ## Contacto
 
-- Email: **jimmy909045@gmail.com**
+- Email: **jimmy_0691@codexfight.com**
 - LinkedIn: **https://www.linkedin.com/in/jimmy-lopez/**
 - X / Twitter: **https://x.com/jimmy909045**
 - CODEXFIGHT: **https://codexfight.com**

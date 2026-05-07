@@ -342,15 +342,6 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, mante
 - Seguridad en aplicaciones web y móviles.
 - Integración de IA en productos digitales.
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosjaime&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjaime&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## Contacto
 

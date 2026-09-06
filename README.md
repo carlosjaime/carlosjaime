@@ -4,7 +4,7 @@
 
 # Carlos Jaime “JIMMY” López Martínez
 
-## Senior Software Developer | Full Stack Developer | Frontend Engineer | CEO & Product Builder
+## Senior Software Developer | Full Stack Developer | Frontend Engineer | Software Architect | CEO & Product Builder
 
 Desarrollador de Software Senior con más de 10 años de experiencia creando soluciones tecnológicas para empresas, startups y productos digitales de alto impacto.
 
@@ -12,13 +12,15 @@ Actualmente me desempeño como **Senior Software Developer en Farmacias Guadalaj
 
 También soy **CEO de CODEXFIGHT**, **CEO de DevHive Software**, **Cofundador de EcoNutrix**, **Cofundador de CodeCrafters Developer Community**, **Cofundador de TribeHub Social** y fundador de **RCMx Game Development**, una startup enfocada en videojuegos, experiencias interactivas, software creativo y productos digitales orientados al entretenimiento.
 
+De forma paralela diseño y desarrollo productos propios como **RestaurOS, Dividis Social y AquaID**, además de otras soluciones SaaS, plataformas especializadas y productos experimentales donde combino ingeniería de software, arquitectura, UI/UX, automatización e inteligencia artificial.
+
 ---
 
 ## Sobre mí
 
 Soy Ingeniero en Sistemas Computacionales egresado del **Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH)**, con especialidad en **Robótica**.
 
-Mi perfil combina desarrollo **Full Stack**, especialización en **Frontend**, aplicaciones móviles, backend, bases de datos, arquitectura de software, integración de APIs, diseño UI/UX, soluciones IoT, automatización e investigación aplicada en inteligencia artificial.
+Mi perfil combina desarrollo **Full Stack**, especialización en **Frontend**, aplicaciones móviles, backend, bases de datos, arquitectura de software, integración de APIs, diseño UI/UX, soluciones IoT, automatización, desarrollo de productos SaaS e investigación aplicada en inteligencia artificial.
 
 Me enfoco en construir productos digitales modernos, escalables, seguros y orientados a la experiencia del usuario.
 
@@ -148,6 +150,9 @@ Participo en:
 |---------|-----|-------------|
 | **CODEXFIGHT** | CEO & Founder | Software & Product Studio enfocado en desarrollo de software a medida, plataformas web, apps móviles, e-commerce, landing pages, automatización y productos digitales escalables. |
 | **DevHive Software** | CEO | Startup enfocada en el desarrollo de soluciones digitales, productos SaaS, sitios web, apps móviles, sistemas administrativos, e-commerce y herramientas para negocios que buscan digitalizar, automatizar y escalar sus operaciones. |
+| **RestaurOS** | Product Builder | Restaurant Operating System SaaS para restaurantes, con POS, mesas, pedidos, cocina/KDS, inventario, caja, clientes, reportes, dispositivos, suscripciones y operación multisucursal. |
+| **Dividis Social** | Product Builder | Plataforma social para registrar, dividir y administrar gastos compartidos entre amigos, parejas, viajes, equipos y comunidades. |
+| **AquaID** | Product Builder | Plataforma para digitalizar la administración de clientes, pagos, adeudos, periodos e historial relacionado con servicios de agua. |
 | **RCMx Game Development** | Founder | Startup enfocada en el desarrollo de videojuegos, experiencias interactivas, software creativo, prototipos jugables, interfaces inmersivas y productos digitales orientados al entretenimiento, la innovación y la tecnología aplicada al gaming. |
 | **EcoNutrix** | Cofundador | Plataforma health-tech enfocada en nutrición, bienestar y tecnología. Desarrollo de landing page oficial y app móvil Android/iOS. |
 | **CodeCrafters Developer Community** | Cofundador | Comunidad internacional de desarrollo enfocada en productos web modernos, colaboración técnica y experiencias digitales. |
@@ -162,6 +167,113 @@ Participo en:
 ---
 
 ## Proyectos destacados
+
+### RestaurOS
+
+**RestaurOS** es una plataforma SaaS para restaurantes diseñada para centralizar la operación diaria del negocio dentro de un solo ecosistema digital.
+
+El producto evoluciona el concepto tradicional de punto de venta hacia un **Restaurant Operating System**, conectando ventas, pedidos, mesas, cocina, inventario, caja, clientes, dispositivos y administración.
+
+Funcionalidades principales:
+
+- Punto de venta POS.
+- Gestión de mesas y pedidos.
+- Módulo para meseros.
+- Kitchen Display System (KDS).
+- Carta digital mediante QR.
+- Kiosco de autoservicio.
+- Gestión de productos e inventarios.
+- Caja y turnos.
+- Clientes.
+- Reportes.
+- Roles y permisos.
+- Gestión de dispositivos.
+- Operación multisucursal.
+- Panel Superadmin.
+- Suscripciones SaaS.
+- Automatización e integraciones externas.
+- Experiencia responsive y mobile-first.
+
+Tecnologías y enfoque:
+
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+- PHP.
+- MySQL.
+- REST APIs.
+- Vercel.
+- Arquitectura modular.
+- RBAC.
+- Seguridad basada en roles.
+- Arquitectura preparada para SaaS.
+
+Sitio oficial:
+
+**https://restauros.app**
+
+---
+
+### Dividis Social
+
+**Dividis Social** es una plataforma social enfocada en simplificar la administración y división de gastos compartidos mediante una experiencia moderna, colaborativa y mobile-first.
+
+Está pensada para amigos, parejas, viajes, reuniones, roommates, equipos y comunidades que necesitan registrar gastos, saber quién pagó, cuánto corresponde a cada participante y mantener balances claros.
+
+Áreas principales:
+
+- Creación y administración de grupos.
+- Registro de gastos.
+- División de gastos entre participantes.
+- Balances individuales.
+- Historial de movimientos.
+- Gestión de participantes.
+- Experiencia colaborativa.
+- Diseño UI/UX mobile-first.
+- Arquitectura preparada para crecimiento.
+- Interacciones y flujos sociales.
+
+Dividis Social combina conceptos de **FinTech, productividad y social networking** dentro de una experiencia sencilla e intuitiva.
+
+---
+
+### AquaID
+
+**AquaID** es una plataforma de gestión digital enfocada en modernizar la administración de servicios de agua y sustituir procesos manuales mediante una infraestructura centralizada.
+
+Permite gestionar clientes, pagos, periodos, adeudos e información histórica desde una experiencia web moderna para administradores y usuarios.
+
+Funcionalidades principales:
+
+- Login para clientes y administradores.
+- Gestión y búsqueda de clientes.
+- Historial de pagos.
+- Registro de pagos mensuales y anuales.
+- Consulta de adeudos.
+- Actualización de información de clientes.
+- Panel administrativo.
+- Portal para clientes.
+- Base de datos centralizada.
+- API backend.
+- Migración de información existente.
+- Gestión histórica de registros.
+- Experiencia responsive y mobile-first.
+
+Tecnologías y enfoque:
+
+- Next.js.
+- JavaScript / TypeScript.
+- PHP.
+- MySQL.
+- REST API.
+- Arquitectura cliente / administrador.
+- Migración y normalización de información.
+- Diseño responsive.
+
+El objetivo de AquaID es convertir procesos administrativos tradicionales en una experiencia digital **más eficiente, accesible y escalable**.
+
+---
 
 ### TaquerOS
 
@@ -341,6 +453,10 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, mante
 - Automatización.
 - Seguridad en aplicaciones web y móviles.
 - Integración de IA en productos digitales.
+- Arquitecturas SaaS modernas.
+- Sistemas multiagente y Agentic Workflows.
+- RAG y automatización inteligente.
+- Seguridad aplicada a productos con IA.
 
 
 ## Contacto
@@ -350,6 +466,7 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, mante
 - X / Twitter: **https://x.com/jimmy909045**
 - CODEXFIGHT: **https://codexfight.com**
 - DevHive Software: **https://devhivesoft.dev**
+- RestaurOS: **https://restauros.app**
 
 ---
 

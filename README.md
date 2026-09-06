@@ -211,7 +211,7 @@ Tecnologías y enfoque:
 
 Sitio oficial:
 
-**https://restauros.app**
+**https://restauros.app/landing**
 
 ---
 
